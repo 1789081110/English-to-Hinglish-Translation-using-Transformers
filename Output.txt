@@ -1,0 +1,36 @@
+
+Model-1 which converts English text to Hinglish using SKAndMl/english-to-hinglish pre trained model:
+Input:
+text=":I had about a 30 minute demo just using this new headset"
+Output:
+mujhe is new headset ka istemaal karke 30 minute ka abhi lagaye
+Input:
+text1=" Definitely share your feedback in the comment section."
+Output:
+sabse aapke supers in the scription mein share karta hai
+Input:
+text2=" So even if it's a big video, I will clearly mention all the products."
+Output:
+To ye bahut bada video hai, to main sabhi productions ke baare mein baat kar sakta hoon.
+Input:
+text3=" I was waiting for my bag."
+Output:
+main mere bag ke liye wait kar raha tha.
+
+Model-2 which converts them in hindi text with mbart-large-50-one-to-many-mmt pre trained model
+Input:
+" I had about a 30 minute demo just using this new headset"
+Output:
+'मैं सिर्फ इस नए हेडसेट के उपयोग के बारे में एक 30 मिनट डेमो था.'
+Input:
+"Definitely share your feedback in the comment section"
+Output:
+'निश्चित रूप से अपनी प्रतिक्रिया को टिप्पणी सेक्शन में साझा करें.'
+Input:
+"So even if it's a big video, I will clearly mention all the products."
+Output:
+'तो अगर यह एक बड़ा वीडियो है, मैं स्पष्ट रूप से सभी उत्पादों का उल्लेख करेंगे।.'
+Input:
+"I was waiting for my bag."
+Output:
+'मैं अपने बैग की प्रतीक्षा कर रहा था।.'
