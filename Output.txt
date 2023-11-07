@@ -34,3 +34,9 @@ Input:
 "I was waiting for my bag."
 Output:
 'मैं अपने बैग की प्रतीक्षा कर रहा था।.'
+Model-3:
+Outputs:
+मेरे पास इस नए Headset का उपयोग By doing लगभग 30 मिनट का Demo था.
+Fixed रूप से Comment Section में अपनी प्रतिक्रिया Shared Do .
+तो Good ही यह एक Big Video Is, मैं स्पष्ट रूप से सभी Products का उल्लेख Will do it.
+मैं अपने Bag का Wait कर रहा था 
